@@ -1,2 +1,2 @@
 <h1>QUEM SOMOS </h1>
-<p>Somos uma empresa que presa pela... </p>
+<p>O Orkut é uma comunidade on-line que conecta pessoas através de uma rede de amigos confiáveis.</p>
